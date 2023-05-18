@@ -531,7 +531,7 @@ function percentageOfWorld1(population) {
 // 'Sweden' in the array, and then replace it with 'Republic of Sweden'.
 
 
-// Step 1: Create an array containing neighbouring countries
+// Step 1: Create an array containing neighbouring countriescd
 var neighbours = ["France", "Spain", "Italy"]; // Replace with neighbouring countries of your choice
 
 // Step 2: Add a new country called 'Utopia' to the end of the 'neighbours' array
